@@ -1,2 +1,7 @@
 # davidimelify
-A small website made as a joke based on the Waveform podcast.
+Do you feel like David doesn't tweet ***ENOUGH?*** Do you find yourself making a clever joke only to realize you took it from David's tweet from six years ago? That's alright, same here.
+
+Introducing **DavidImelify**, the perfect solution for finding those long-lost tweets from six years ago.
+
+![image](https://github.com/user-attachments/assets/34959db7-fac5-44f5-9303-f25b467cec87)
+
