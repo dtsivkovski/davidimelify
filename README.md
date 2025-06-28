@@ -1,5 +1,5 @@
 # davidimelify
-Do you feel like David doesn't tweet ***ENOUGH?*** Do you find yourself making a clever joke only to realize you took it from David's tweet from six years ago? That's alright, same here.
+Do you feel like David doesn't tweet ***ENOUGH?*** Do you find yourself making a clever joke only to realize you took it from David's tweet from six years ago? You're not alone.
 
 Introducing **DavidImelify**, the perfect solution for finding those long-lost tweets from six years ago.
 
